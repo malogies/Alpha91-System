@@ -30,6 +30,9 @@ For any commercial use, including manufacturing, distribution, or resale of Alph
    - **Bill of Materials (BOM)** certified by JLCPCB.
    - **3D CAD files** and manufacturing details.
 - Permission to manufacture, resell, or distribute Alpha91 systems.
+- **Fixed Yearly Fee**: A yearly fee applies to the commercial license. This fee is fixed regardless of cloud usage and includes all hosting costs.
+- **Unlimited Devices**: There are no limits on the number of devices under the commercial license.
+- **No Monthly Commitments**: The fixed annual fee covers all costs, and there are no additional monthly commitments for hosting or services.
 
 #### **Commercial License Restrictions:**
 - The **Alpha91 name and logo** must remain intact, visible, and unaltered on all products and components.
@@ -122,6 +125,8 @@ For licensing inquiries, support, or further questions, contact us:
 | Manufacturing and Resale Rights| ❌ Prohibited            | ✔ Allowed                 |
 | Alpha91 Branding Modification  | ❌ Prohibited            | ❌ Prohibited              |
 | Redistribution of BOM/CAD/API  | ❌ Prohibited            | ❌ Prohibited              |
+| Fixed Annual Fee (No Limits)   | ❌ Not Applicable        | ✔ Included                |
+| Monthly Commitments            | ❌ None                 | ❌ None                   |
 
 ---
 
