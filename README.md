@@ -41,7 +41,6 @@ Code examples for controlling solenoids and other modules:
 
 ### **6. Licensing**
 Details on licensing and legal usage:
-- **EULA.md**: End User License Agreement.  
 - **Privacy_Policy.md**: Data privacy and security policies.  
 - **Alpha91_Commercial_License.md**: Licensing terms for commercial users.  
 

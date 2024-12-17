@@ -1,7 +1,7 @@
 # **Privacy Policy**
 
 ## **1. Introduction**
-Welcome to **Alpha91 Enterprises Pty Ltd** ("Alpha91," "we," "us," or "our"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our hardware, software, web applications, and services (collectively, the "Alpha91 System").
+Welcome to **Alpha91 Enterprises (Pty) Ltd** ("Alpha91," "we," "us," or "our"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our hardware, software, web applications, and services (collectively, the "Alpha91 System").
 
 By accessing or using our Products and Services, you agree to this Privacy Policy. If you do not agree with this Policy, please refrain from using our services.
 
@@ -78,7 +78,7 @@ You have the following rights concerning your data:
 - **Deletion**: Request deletion of your personal information where legally applicable.
 - **Withdraw Consent**: Disable cloud services or API key usage at any time.
 
-For requests, contact us at **[Insert Contact Email]**.
+For requests, contact us at **info@alpha91.co.za**.
 
 ---
 
@@ -104,7 +104,7 @@ The **last updated date** will be displayed at the top of this document.
 ## **11. Contact Us**
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
-- **Email**: [Insert Contact Email]  
+- **Email**: info@alpha91.co.za  
 - **Website**: [https://www.alpha91.co.za](https://www.alpha91.co.za)
 
 ---
@@ -112,4 +112,5 @@ If you have any questions, concerns, or requests regarding this Privacy Policy, 
 ## **Summary**
 Alpha91 prioritizes your privacy and ensures that data is collected, stored, and used responsibly. By using Alpha91 Products and Services, you consent to this Privacy Policy.
 
-**Thank you for trusting Alpha91 Enterprises Pty Ltd.**
+**Thank you for trusting Alpha91 Enterprises (Pty) Ltd.**
+
