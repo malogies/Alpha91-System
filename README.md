@@ -32,10 +32,7 @@ Detailed documentation and overviews:
 
 ### **4. Diagrams**
 Visual resources for system implementation:
-- Alarm system diagrams.  
-- Fire suppression system diagrams.  
-- Home and industrial automation flowcharts.  
-- DIY project block diagrams.  
+- Fire suppression system diagrams.   
 
 ### **5. Licensing**
 Details on licensing and legal usage:
@@ -46,7 +43,6 @@ Details on licensing and legal usage:
 ### **6. Documentation**
 Application-specific guides and wiring diagrams:
 - Fire suppression overviews and guides.  
-- Alarm system setup documentation.  
 - Scenarios for automated fire suppression systems.  
 
 ---
