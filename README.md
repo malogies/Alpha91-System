@@ -32,15 +32,20 @@ Detailed documentation and overviews:
 
 ### **4. Diagrams**
 Visual resources for system implementation:
-- Fire suppression system diagrams.   
+- Fire suppression system diagrams.  
 
-### **5. Licensing**
+### **5. Examples**
+Code examples for controlling solenoids and other modules:
+- **Examples/Free_Version/Solenoid_Control_Basic.ino**: Basic solenoid control using digital pins.
+- **Examples/ESP_IDF/Solenoid_Control_ESP.c**: Solenoid control example using ESP-IDF framework.
+
+### **6. Licensing**
 Details on licensing and legal usage:
 - **EULA.md**: End User License Agreement.  
 - **Privacy_Policy.md**: Data privacy and security policies.  
 - **Alpha91_Commercial_License.md**: Licensing terms for commercial users.  
 
-### **6. Documentation**
+### **7. Documentation**
 Application-specific guides and wiring diagrams:
 - Fire suppression overviews and guides.  
 - Scenarios for automated fire suppression systems.  
@@ -62,6 +67,20 @@ To set up and use the Alpha91 System:
 - **Multi-Industry Use**: Fire suppression, automation, IoT projects, and more.  
 - **Cloud Integration**: Real-time monitoring, push notifications, and secure API access.  
 - **Secure Communication**: Encrypted communication over HTTPS.  
+
+---
+
+## **Automated Fire Suppression Systems**
+The Alpha91 System is a scalable solution for **automated fire suppression systems**. It integrates seamlessly with solenoids, sensors, and cloud monitoring tools to ensure reliable fire safety and automation:
+
+### **Features**:
+- **Solenoid Control**: Activate solenoids for fire suppression using configurable thresholds.
+- **Temperature Sensors**: Monitor temperature levels and trigger solenoids in real time.
+- **Cloud Logging**: Log system activity, trigger notifications, and generate incident reports.
+- **RS485 Communication**: Connect to industrial systems and external monitoring tools.
+- **Secure Web Interface**: Configure and monitor the fire suppression system over HTTPS.
+
+**Example Usage**: Server rooms, industrial plants, and automated safety systems.
 
 ---
 
