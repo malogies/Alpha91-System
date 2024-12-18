@@ -8,7 +8,7 @@ The **Alpha91 Main Controller** is a versatile, scalable, and robust IoT platfor
 ## **Key Features**
 | **Feature**                        | **Description**                                    |
 |------------------------------------|----------------------------------------------------|
-| **Solenoid Valve Control**         | Direct 12/24V outputs for automation and safety systems. |
+| **Solenoid Valve Control**         | Direct 12V outputs for automation and safety systems. |
 | **Sensor Compatibility**           | Temp, Gas, Smoke, Button, and other digital inputs. |
 | **RS485 Communication**            | Integrate with industrial, SCADA, and automation systems. |
 | **Ethernet/Wi-Fi Connectivity**    | Real-time data monitoring and cloud communication. |
@@ -25,7 +25,7 @@ The **Alpha91 Main Controller** is a versatile, scalable, and robust IoT platfor
 
 ### 1. **Fire Suppression Systems**
 The Alpha91 Main Controller automates fire suppression by:
-- Activating solenoid valves (12V/24V) based on **temperature, gas, or smoke sensors**.
+- Activating solenoid valves (12V) based on **temperature, gas, or smoke sensors**.
 - Providing configurable delays and sequences for solenoid activation.
 - Enabling manual overrides via button/switch inputs.
 - Offering real-time monitoring through cloud integration and alerts.
