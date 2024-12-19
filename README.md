@@ -1,4 +1,4 @@
-# **Alpha91 System Documentation**
+# **Auto Fire Suppression and Industrial Automation System**
 
 Welcome to the **Alpha91 System** GitHub repository! This repository contains comprehensive documentation, diagrams, guides, specifications, and resources to help you set up and use the **Alpha91 Main Boards, Modules**, and **Accessories** for various applications.
 
